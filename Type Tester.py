@@ -3,7 +3,7 @@ from tkinter import messagebox
 import random
 import time
 
-
+#Sample Texts that will be typed 
 TEXTS = [
     "Artificial intelligence is the future of technology"
     "Jesus Christ is King"
