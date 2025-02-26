@@ -11,3 +11,7 @@ TEXTS = [
     "Many an anemone sees an enemy anemone"
     "Python is a versatile programming language"
 ]
+
+class TypingTesterApp:
+    def __init__(self,root):
+        
